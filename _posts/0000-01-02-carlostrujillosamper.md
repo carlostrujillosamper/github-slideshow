@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+I'd buy that for a dollar 
 Use the left arrow to go back!
